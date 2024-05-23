@@ -7,4 +7,4 @@ Synthesizing qualitative data can be tricky and time-consuming. Using a word-clo
 “Speed. Aesthetics. I can do everything from the keyboard.”
 “Speed and the great set of keyboard shortcuts. I rarely, if ever, have to use the trackpad.”
 
-![Uploading sOx7WfC9Tyq4P76da6ng_Benefits word cloud.jpeg…]()
+![sOx7WfC9Tyq4P76da6ng_Benefits word cloud](https://github.com/erascon7/TIL/assets/39039416/a97084a2-c1bc-4d60-8b1c-601270005e83)
