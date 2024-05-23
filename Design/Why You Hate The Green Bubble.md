@@ -2,4 +2,4 @@ The green iMessage bubble is a key example of why design matters in software dev
 
 ![b8ae1644459d64b401a193c4404ebcdd4ddbc188](https://github.com/erascon7/TIL/assets/39039416/7593e614-58a4-4e15-82c5-beceaf53424a)
 
-[Source]([https://web.archive.org/web/20221201051514/https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed?gi=e5d7fd069ef2](https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed))
+![Source]([https://web.archive.org/web/20221201051514/https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed?gi=e5d7fd069ef2](https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed))
