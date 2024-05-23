@@ -1,4 +1,4 @@
-Synthesizing qualitative data can be tricky and time-consuming. Using a word-cloud can speed up the process to highlight keywords. Let's use Superhuman's word-cloud discovery as an example.
+Synthesizing qualitative data can be tricky and time-consuming. Using a [word cloud](https://www.wordclouds.com/?ref=review.firstround.com) can speed up the process to highlight keywords. Let's use [Superhuman's word cloud discovery](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/) as an example.
 
 “Processing email is much faster with Superhuman for two reasons: show one email at a time and overall speed is much better than gmail. I get through my inbox in half the time.”
 
