@@ -10,13 +10,13 @@ _3 TILs and the tally keeps climbing._
 
 ### Categories
 
-* [Design](#Design)
+* [UX Design](#UXDesign)
 * [Product Market Fit Stories](#ProductMarketFitStories)
 * [User Surveys](#UserSurveys)
 
 ---
 
-### Design
+### UX Design
 - [Why You Hate The Green Bubble](https://github.com/erascon7/TIL/blob/main/Design/Why%20You%20Hate%20The%20Green%20Bubble.md)
 
 ### Product Market Fit Stories
