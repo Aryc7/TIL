@@ -7,6 +7,6 @@ After that, they decided to attach a person to each user who filled out the surv
 
 ![jyZM8wf7RMyKxbMRGiLo_Impact of segmenting chart](https://github.com/erascon7/TIL/assets/39039416/a0952dfb-adb0-4fd1-8be1-1e115eb75e56)
 
-<u>Related Posts</u>
+## Related Posts
 - [Sean Ellis' PMF Survey](https://github.com/erascon7/TIL/blob/main/User%20Surveys/Sean%20Ellis'%20PMF%20Survey.md)
 - [Use Word Cloud To Determine Common Themes](https://github.com/erascon7/TIL/blob/main/User%20Surveys/Use%20Word%20Cloud%20To%20Determine%20Common%20Themes.md)
