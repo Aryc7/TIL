@@ -10,17 +10,17 @@ _4 TILs and the tally keeps climbing._
 
 ### Categories
 
-* [UX Design](#UXDesign)
 * [Product Market Fit Stories](#ProductMarketFitStories)
+* [UX Design](#UXDesign)
 * [User Surveys](#UserSurveys)
 
 ---
 
-### UX Design
-- [Why You Hate The Green Bubble](https://github.com/erascon7/TIL/blob/main/Design/Why%20You%20Hate%20The%20Green%20Bubble.md)
-
 ### Product Market Fit Stories
 - [Superhuman](https://github.com/erascon7/TIL/blob/main/Product%20Market%20Fit%20Stories/Superhuman.md)
+
+### UX Design
+- [Why You Hate The Green Bubble](https://github.com/erascon7/TIL/blob/main/Design/Why%20You%20Hate%20The%20Green%20Bubble.md)
 
 ### User Surveys
 - [Use Word Cloud To Determine Common Themes](https://github.com/erascon7/TIL/blob/main/User%20Surveys/Use%20Word%20Cloud%20To%20Determine%20Common%20Themes.md)
