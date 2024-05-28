@@ -10,7 +10,7 @@ _5 TILs and the tally keeps climbing._
 
 ### Categories
 
-* [Product Market Fit Stories](#ProductMarketFitStories)
+* [Product Market Fit Stories](#product-market-fit-stories)
 * [UX Design](#UXDesign)
 * [User Surveys](#UserSurveys)
 
