@@ -21,6 +21,7 @@ _4 TILs and the tally keeps climbing._
 
 ### UX Design
 - [Why You Hate The Green Bubble](https://github.com/erascon7/TIL/blob/main/Design/Why%20You%20Hate%20The%20Green%20Bubble.md)
+- [UI Density Affects How You Process Information]
 
 ### User Surveys
 - [Sean Ellis' PMF Survey](https://github.com/erascon7/TIL/blob/main/User%20Surveys/Sean%20Ellis'%20PMF%20Survey.md)
