@@ -10,11 +10,15 @@ _5 TILs and the tally keeps climbing._
 
 ### Categories
 
+* [Cross-Functional Collaborations](#cross---functional-collaborations)
 * [Product Market Fit Stories](#product-market-fit-stories)
 * [UX Design](#ux-design)
 * [User Surveys](#user-surveys)
 
 ---
+
+### Cross-Functional Collaborations
+- [Amazon's Pizza Teams](https://github.com/erascon7/TIL/blob/main/Cross-Functional%20Collaborations/Amazon's%20Pizza%20Teams.md)
 
 ### Product Market Fit Stories
 - [Superhuman](https://github.com/erascon7/TIL/blob/main/Product%20Market%20Fit%20Stories/Superhuman.md)
