@@ -10,7 +10,7 @@ _5 TILs and the tally keeps climbing._
 
 ### Categories
 
-* [Cross-Functional Collaborations](#cross---functional-collaborations)
+* [Cross-Functional Collaborations](#cross-functional-collaborations)
 * [Product Market Fit Stories](#product-market-fit-stories)
 * [UX Design](#ux-design)
 * [User Surveys](#user-surveys)
