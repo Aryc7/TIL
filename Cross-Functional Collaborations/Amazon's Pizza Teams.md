@@ -8,10 +8,10 @@ The Ringelmann effect says the bigger the team the less productive they are. A s
 
 Increased headcounts worsen lines of communication.
 
-3 people = 3 lines of communications
-4 people = 6 lines of communications
-5 people = 10 lines of communications
-6 people = 15 lines of communications
+- 3 people = 3 lines of communications
+- 4 people = 6 lines of communications
+- 5 people = 10 lines of communications
+- 6 people = 15 lines of communications
 
 Misalignment will naturally happen with a higher number of lines of communication. That's why it's important to keep a team as small but as efficient as possible.
 
