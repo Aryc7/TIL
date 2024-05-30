@@ -10,7 +10,7 @@ _7 TILs and the tally keeps climbing._
 
 ### Categories
 
-* [Cross-Functional Collaborations](#cross-functional-collaborations)
+* [Teamwork/Communication](#Teamwork/Communication)
 * [Product Market Fit Stories](#product-market-fit-stories)
 * [Retention Strategies](#retention-strategies)
 * [User Surveys](#user-surveys)
@@ -18,7 +18,7 @@ _7 TILs and the tally keeps climbing._
 
 ---
 
-### Cross-Functional Collaborations
+### Teamwork/Communication
 - [Amazon's Pizza Teams](https://github.com/erascon7/TIL/blob/main/Cross-Functional%20Collaborations/Amazon's%20Pizza%20Teams.md)
 
 ### Product Market Fit Stories
