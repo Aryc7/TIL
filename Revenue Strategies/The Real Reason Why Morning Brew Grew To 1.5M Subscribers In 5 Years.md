@@ -13,5 +13,5 @@ Insights such as...
 4. Enough White Space - This pattern allows for a better flow of readability that makes images, headlines, and call-to-actions stand out.
 
 5. Gamification - A referral program that gives users credits based on the amount of people they have referred.
-6.
-7. ![Screenshot 2024-05-29 at 10 27 57 PM](https://github.com/erascon7/TIL/assets/39039416/af3ff24c-6ad1-4e09-90f4-5dc12f857541)
+  
+![Screenshot 2024-05-29 at 10 27 57 PM](https://github.com/erascon7/TIL/assets/39039416/af3ff24c-6ad1-4e09-90f4-5dc12f857541)
