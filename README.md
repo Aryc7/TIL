@@ -4,6 +4,8 @@
 
 Welcome to my Second Brain of Product Thinking. This is a collection to quickly capture my daily Product Learnings. What better way than to keep it in a public repository? 
 
+I have a second repository titled [Reasons To Hire Me](https://github.com/erascon7/Reasons-To-Hire-Me). Check it out if you'd like... no pressure. 
+
 _7 TILs and the tally keeps climbing._
 
 ---
