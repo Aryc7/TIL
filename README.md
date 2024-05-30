@@ -19,7 +19,7 @@ _7 TILs and the tally keeps climbing._
 ---
 
 ### Teamwork & Communication
-- [Amazon's Pizza Teams](https://github.com/erascon7/TIL/blob/main/Cross-Functional%20Collaborations/Amazon's%20Pizza%20Teams.md)
+- [Amazon's Pizza Teams](https://github.com/erascon7/TIL/blob/main/Teamwork%20%26%20Communication/Amazon's%20Pizza%20Teams.md)
 
 ### Product Market Fit Stories
 - [Superhuman](https://github.com/erascon7/TIL/blob/main/Product%20Market%20Fit%20Stories/Superhuman.md)
