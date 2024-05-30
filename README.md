@@ -24,7 +24,7 @@ _7 TILs and the tally keeps climbing._
 ### Product Market Fit Stories
 - [Superhuman](https://github.com/erascon7/TIL/blob/main/Product%20Market%20Fit%20Stories/Superhuman.md)
 
-### ≈
+### Revenue Strategies
 - [The Real Reason Why Morning Brew Grew To 1.5M Subscribers In 5 Years](https://github.com/erascon7/TIL/blob/main/Revenue%20Strategies/The%20Real%20Reason%20Why%20Morning%20Brew%20Grew%20To%201.5M%20Subscribers%20In%205%20Years.md)
 
 ### UX Design
