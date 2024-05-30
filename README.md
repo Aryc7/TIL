@@ -10,7 +10,7 @@ _7 TILs and the tally keeps climbing._
 
 ### Categories
 
-* [Teamwork & Communication](#teamworkcommunication)
+* [Teamwork & Communication](#teamwork--communication)
 * [Product Market Fit Stories](#product-market-fit-stories)
 * [Retention Strategies](#retention-strategies)
 * [User Surveys](#user-surveys)
