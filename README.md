@@ -6,7 +6,7 @@ Welcome to my Second Brain of Product Thinking. This is a collection to quickly 
 
 I have a second repository titled [Reasons To Hire Me](https://github.com/erascon7/Reasons-To-Hire-Me). Check it out if you'd like... no pressure. 
 
-_7 TILs and the tally keeps climbing._
+_8 TILs and the tally keeps climbing._
 
 ---
 
@@ -15,6 +15,7 @@ _7 TILs and the tally keeps climbing._
 * [Teamwork & Communication](#teamwork--communication)
 * [Product Market Fit Stories](#product-market-fit-stories)
 * [Retention Strategies](#retention-strategies)
+* [Scale](#scale)
 * [User Surveys](#user-surveys)
 * [UX Design](#ux-design)
 
@@ -28,6 +29,9 @@ _7 TILs and the tally keeps climbing._
 
 ### Retention Strategies
 - [The Real Reason Why Morning Brew Grew To 1.5M Subscribers In 5 Years](https://github.com/erascon7/TIL/blob/main/Retention%20Strategies/The%20Real%20Reason%20Why%20Morning%20Brew%20Grew%20To%201.5M%20Subscribers%20In%205%20Years.md)
+
+### Scale
+- [Expansion After Product-Market Fit](https://github.com/erascon7/TIL/blob/main/Scale/Expansion%20After%20Product-Market%20Fit.md)
 
 ### User Surveys
 - [Sean Ellis' PMF Survey](https://github.com/erascon7/TIL/blob/main/User%20Surveys/Sean%20Ellis'%20PMF%20Survey.md)
