@@ -6,7 +6,7 @@ Welcome to my Second Brain of Product Thinking. This is a collection to quickly 
 
 I have a second repository titled [Reasons To Hire Me](https://github.com/erascon7/Reasons-To-Hire-Me). Check it out if you'd like... no pressure. 
 
-_8 TILs and the tally keeps climbing._
+_9 TILs and the tally keeps climbing._
 
 ---
 
