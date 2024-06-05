@@ -1,6 +1,6 @@
 # A retrospective on tables
 
-[Great tables[(https://posit-dev.github.io/great-tables/blog/design-philosophy/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) performs a deep dive on data tables. From going far as when they were presented on stone during the Mesopotamia era (1850 BC), that was earliest sign of tables being systematically structured to display and organize information/data. 
+[Great tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) performs a deep dive on data tables. From going far as when they were presented on stone during the Mesopotamia era (1850 BC), that was earliest sign of tables being systematically structured to display and organize information/data. 
 
 To the 20th century, tables took on a new complex form on paper. 
 
