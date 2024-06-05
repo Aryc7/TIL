@@ -40,3 +40,4 @@ _8 TILs and the tally keeps climbing._
 ### UX Design
 - [Why You Hate The Green iPhone Bubble](https://github.com/erascon7/TIL/blob/main/Design/Why%20You%20Hate%20The%20Green%20Bubble.md)
 - [UI Density Affects How You Process Information](https://github.com/erascon7/TIL/blob/main/UX%20Design/UI%20Density%20Affects%20How%20You%20Process%20Information.md)
+- [The Philosophy behind Great Design Tables](https://github.com/ericrascon/Today-I-Learned/blob/main/UX%20Design/The%20Philosophy%20Behind%20Great%20Design%20Tables.md)
